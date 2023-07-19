@@ -1,0 +1,15 @@
+{
+    "name": "resdiary-tech-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./dist/index.js",
+    "scripts": {
+        "start": "npx tsc && node ."
+    },
+    "author": "Jordan James",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.6.1",
+        "typescript": "^5.1.6"
+    }
+}
